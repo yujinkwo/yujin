@@ -3,12 +3,27 @@ public class Main {
     //Code your solution to problem number one here
     static int problemOne(String s){
         //TODO
-        return -1;
+        int count=0;
+        String vowels = "aeiou";
+        for (int i = 0; i < s.length(); i++) {
+            if(vowels.contains(s.substring(i,i+1))){
+                count++;
+            }
+        }
+        
+        return count;
     }
-    //Code you problem number two here
+    //Code you problem number two here bob
     static int problemTwo(String s){
         //TODO
-        return -1;
+        int count=0;
+        String vowels = "bob";
+        for(int i = 0; i < s.length()-2; i++) {
+            if(vowels.equals(s.substring(i,i+3))){
+                count++;
+            }
+        }
+        return count;
     }
     //Code your solution to problem number 3 here
     static String problemThree(String s){

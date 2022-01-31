@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fce31ba-86e7-4933-800e-2d2d9d7558d3" name="Changes" comment="" />
+    <list default="true" id="a5c12d6b-33a5-4750-ad4b-4649f38df5da" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +20,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectId" id="22Fab8FyEwJznZse8nRvYRqf8kN" />
+  <component name="ProjectId" id="23f2c2SgWIXXxUlZFosAigcbhuW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,7 +34,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Employee" />
+      <module name="TimeClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -51,31 +48,22 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8fce31ba-86e7-4933-800e-2d2d9d7558d3" name="Changes" comment="" />
-      <created>1639435860160</created>
+      <changelist id="a5c12d6b-33a5-4750-ad4b-4649f38df5da" name="Changes" comment="" />
+      <created>1642110904083</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1639435860160</updated>
-      <workItem from="1639435861311" duration="685000" />
-      <workItem from="1639519292001" duration="1807000" />
-      <workItem from="1639605440761" duration="1712000" />
-      <workItem from="1639608969413" duration="242000" />
-      <workItem from="1639691008940" duration="4349000" />
-      <workItem from="1641852118727" duration="3313000" />
-      <workItem from="1641938423127" duration="3595000" />
-      <workItem from="1642024754694" duration="3859000" />
-      <workItem from="1642110242160" duration="655000" />
-      <workItem from="1642111433876" duration="700000" />
-      <workItem from="1642112199566" duration="2782000" />
-      <workItem from="1642197549549" duration="13000" />
-      <workItem from="1642545072535" duration="63000" />
-      <workItem from="1642545173290" duration="383000" />
-      <workItem from="1642545642290" duration="364000" />
-      <workItem from="1642546094232" duration="75000" />
-      <workItem from="1642546192004" duration="874000" />
-      <workItem from="1642629140584" duration="4287000" />
-      <workItem from="1642717313617" duration="2549000" />
-      <workItem from="1642801819115" duration="3961000" />
+      <updated>1642110904083</updated>
+      <workItem from="1642110905352" duration="520000" />
+      <workItem from="1642112143193" duration="52000" />
+      <workItem from="1642197565214" duration="3613000" />
+      <workItem from="1642456179352" duration="4479000" />
+      <workItem from="1642542540679" duration="2503000" />
+      <workItem from="1642545139377" duration="30000" />
+      <workItem from="1642545563212" duration="75000" />
+      <workItem from="1642546012846" duration="77000" />
+      <workItem from="1642546172741" duration="16000" />
+      <workItem from="1642717414617" duration="82000" />
+      <workItem from="1642805810881" duration="15000" />
     </task>
     <servers />
   </component>
